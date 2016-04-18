@@ -1,0 +1,62 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+#simple {
+   width: 100px;
+   height: 100px;
+   background-color: #9C27B0;
+   color: white;
+   text-align: center;
+   vertical-align: middle;
+   line-height: 100px;
+   font-family: Raleway;
+    
+}
+
+#slow {
+   width: 100px;
+   height: 100px;
+   background-color: #673AB7;
+   color: white;
+   text-align: center;
+   vertical-align: middle;
+   line-height: 100px;
+   font-family: Raleway;
+}
+
+#fast {
+   width: 100px;
+   height: 100px;
+   background-color: #3F51B5;
+   color: white;
+   text-align: center;
+   vertical-align: middle;
+   line-height: 100px;
+   font-family: Raleway;
+}
+
+#delayed {
+   width: 100px;
+   height: 100px;
+   background-color: #2196F3;
+   color: white;
+   text-align: center;
+   vertical-align: middle;
+   line-height: 100px;
+   font-family: Raleway;
+}
+
+#custom {
+   width: 100px;
+   height: 100px;
+   background-color: #03A9F4;
+   color: white;
+   text-align: center;
+   vertical-align: middle;
+   line-height: 100px;
+   font-family: Raleway;
+}
+
+
+
+
+
