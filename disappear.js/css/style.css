@@ -56,6 +56,18 @@
    font-family: Raleway;
 }
 
+#hide {
+   width: 100px;
+   height: 100px;
+   background-color: #FF9800;
+   color: white;
+   text-align: center;
+   vertical-align: middle;
+   line-height: 100px;
+   font-family: Raleway;
+}
+
+
 
 
 

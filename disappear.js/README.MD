@@ -27,14 +27,12 @@ function init() {
    disappear.fast("nameofelement");
    // to make a element dissapear after the given amount of seconds or minutes
    disappear.delayed("nameofelement",value,settimeout,interval);
-   // to give make the element dissapear as fast as you want
+   // to give make th element dissapear as fast as you want
    disappear.custom("nameofelement",value,interval);
-   //to hide a element
+    //to hide a element
    disappear.hide("nameofelement");
    //to show a element
    dissapear.show("nameofelement");
-   
-   
 }
 window.onload = init;
 ```

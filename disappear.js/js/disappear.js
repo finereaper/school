@@ -65,6 +65,18 @@ var disappear = {
         },interval);
     },
     
+    // object hide to hide element 
+    hide: function (id) {
+        var element = document.getElementById(id);
+        element.style.display = 'none';
+    },
+    
+    //object show to show element 
+    show: function (id) {
+        var element = document.getElementById(id);
+        element.style.display = 'block';
+    },
+    
 }
 
 
