@@ -13,7 +13,7 @@ window.onload = init;
 
 ## Motivation
 
-One reason the build disappear.js was to test my coding skills, the other one was to make a libary that i can use to make a elements disapear without the use of jquery.
+One reason the build disappear.js was to test my coding skills, the other one was to make a library that i can use to make a elements disapear without the use of jquery.
 
 ## Installation
 
