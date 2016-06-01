@@ -1,6 +1,6 @@
 ## Synopsis
 
-Disappear.js is a javascript library, it's made to make elements dissapear through the power of pure javascript. At the moment it has 7 options you can use, like "simple" or "Fast"
+Disappear.js is a javascript framework, it's made to make elements dissapear through the power of pure javascript. At the moment it has 7 options you can use, like "simple" or "Fast"
 
 ## Code Example
 
@@ -13,7 +13,7 @@ window.onload = init;
 
 ## Motivation
 
-One reason the build disappear.js was to test my coding skills, the other one was to make a library that i can use to make a elements disapear without the use of jquery.
+One reason the build disappear.js was to test my coding skills, the other one was to make a framework that i can use to make a elements disapear without the use of jquery.
 
 ## Installation
 
