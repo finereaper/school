@@ -17,6 +17,21 @@ One reason the build disappear.js was to test my coding skills, the other one wa
 
 ## Installation
 
+Before you can use my library you first need to include the "Dissapear.js” file in between the head tags of your html code as shown below.
+
+```html
+<html>
+
+<head>
+    <script src="js/disappear.js"></script>
+</head>
+<body>
+</body>
+
+</html>
+```
+
+
 ```javascript
 function init() {
    // to lower the opacity of element
@@ -36,6 +51,7 @@ function init() {
 }
 window.onload = init;
 ```
+
 
 ## Tests
 
