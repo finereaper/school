@@ -30,24 +30,24 @@ Before you can use my library you first need to include the "Dissapear.js” fil
 
 </html>
 ```
-
+In your own JavaScript file use can use the code below to make elements disappear however you want it
 
 ```javascript
 function init() {
    // to lower the opacity of element
-   disappear.simple("nameofelement");
+   disappear.simple("idofelement");
    // to make a element disappear slowly
-   disappear.slow("nameofelement");
+   disappear.slow("idofelement");
    // to make a element disappear fast
-   disappear.fast("nameofelement");
+   disappear.fast("idofelement");
    // to make a element dissapear after the given amount of seconds or minutes
-   disappear.delayed("nameofelement",value,settimeout,interval);
+   disappear.delayed("idofelement",value,settimeout,interval);
    // to give make th element dissapear as fast as you want
-   disappear.custom("nameofelement",value,interval);
+   disappear.custom("idofelement",value,interval);
     //to hide a element
-   disappear.hide("nameofelement");
+   disappear.hide("idofelement");
    //to show a element
-   dissapear.show("nameofelement");
+   dissapear.show("idofelement");
 }
 window.onload = init;
 ```
